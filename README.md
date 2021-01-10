@@ -1,18 +1,19 @@
 # GlobalAIHubMLCourse
 Global AI+ Machine Learning 
-Course Date: Name: Elif
-Surname: Yiğit
-Email: elif89876@gmail.com
+Course Date: 10-01-2021
+Name: Chinedu
+Surname: Nwanya
+Email: nwanyac.k@gmail.com
 
-Note: Your homeworks can be formats like ".ipynb" and ".py". Not ".txt" files!! Make sure that your codes works.
 
-Project Name
+Project Building a model for predicting wine qualities
 Description...
 
 Requirements
 Some python libraries
 
 Certification
+
 
 
 About
